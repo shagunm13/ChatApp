@@ -70,7 +70,7 @@ export default class Login extends Component {
                 <Grid.Column style={{ maxWidth: 450 }}>
                     <Header as="h2" icon color="violet" textAlign="center">
                         <Icon name="code branch" color="violet" />
-                        Login to Chat with Shagun
+                        Login to Chat2Expore
                     </Header>
                     <Form size="large" onSubmit={this.handleSubmit}>
                         <Segment stacked>

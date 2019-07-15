@@ -39,7 +39,7 @@ class UserPanel extends React.Component {
                         {}
                         <Header inverted floated="left" as="h3">
                             <Icon name="code" />
-                            <Header.Content>Chat With Shagun</Header.Content>
+                            <Header.Content>Chat2Explore</Header.Content>
                         </Header>
                         {/*user dropdown */}
                         <Header style={{ padding: '0.25em' }} as="h4" inverted>

@@ -133,7 +133,7 @@ export default class Register extends Component {
                 <Grid.Column style={{ maxWidth: 450 }}>
                     <Header as="h2" icon color="orange" textAlign="center">
                         <Icon name="puzzle piece" color="orange" />
-                        Register for Chat with Shagun
+                        Register for Chat2Explore
                     </Header>
                     <Form size="large" onSubmit={this.handleSubmit}>
                         <Segment stacked>
